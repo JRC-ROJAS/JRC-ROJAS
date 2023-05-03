@@ -39,5 +39,5 @@ const aboutMe = {
 
 <a href="mailto:rojascjhonny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rojascjhonny%40gmail.com-red"></a>
 <hr>
-⭐️ FROM [@JHONNY ROJAS CAMACHO](https://github.com/JRC-ROJAS)
+⭐️ FROM @JHONNY(https://github.com/JRC-ROJAS)
 
