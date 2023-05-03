@@ -24,10 +24,30 @@ const aboutMe = {
 
 };
 ```
-</br></br>
-<h2>💻</h2>
+</br>
 
----
+<hr>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+<h3> CONNECT WITH ME  🤝🏻</h3>
+
+<br>
+
+<p align="center">
+
+   <a href="https://www.linkedin.com/in/johnny-rojas-6342b0195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:rojascjhonny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
 
 ⭐️ From [@JHONNY](https://github.com/JRC-ROJAS)
