@@ -5,7 +5,7 @@
 
 <p>
    <em>
-      SOY UN ESTUDIANTE DE LA<a href="https://www.upds.edu.bo/">UNIVERSIDAD PRIVADA DOMINGO SAVIO</a> , EN LA CARRERA DE INGENIERIA DE SISTEMAS
+      SOY UN ESTUDIANTE DE LA <a href="https://www.upds.edu.bo/">UNIVERSIDAD PRIVADA DOMINGO SAVIO</a>, EN LA CARRERA DE INGENIERIA DE SISTEMAS
    </em>
 </p>
 
@@ -34,13 +34,9 @@ const aboutMe = {
 <hr>
 
 <h3> CONNECT WITH ME  🤝🏻</h3>
-
 <br>
-
 <a href="https://www.linkedin.com/in/jhonny-rojas-camacho-6342b0195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jhonny%20Rojas-blue"></a>
-
 <a href="mailto:rojascjhonny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rojascjhonny%40gmail.com-red"></a>
-
 <hr>
-<p><center> ⭐️ From [@JHONNY ROJAS CAMACHO](https://github.com/JRC-ROJAS) </center></p>
+<p>⭐️ FROM [@JHONNY ROJAS CAMACHO](https://github.com/JRC-ROJAS)</p>
 
