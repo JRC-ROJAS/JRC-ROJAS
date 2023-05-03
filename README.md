@@ -38,5 +38,5 @@ const aboutMe = {
 <a href="https://www.linkedin.com/in/jhonny-rojas-camacho-6342b0195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jhonny%20Rojas-blue"></a>
 <a href="mailto:rojascjhonny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rojascjhonny%40gmail.com-red"></a>
 <hr>
-<p>⭐️ FROM [@JHONNY ROJAS CAMACHO](https://github.com/JRC-ROJAS)</p>
+<p>⭐️ FROM @JHONNY_ROJAS_CAMACHO (https://github.com/JRC-ROJAS)</p>
 
