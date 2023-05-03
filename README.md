@@ -1,4 +1,6 @@
 
+<h2> HOLA, MI NOMBRE ES JHONNY <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></h2>
+--
 <p><em>SOY UN ESTUDIANTE DE LA <a href="https://www.upds.edu.bo/">UNIVERSIDAD PRIVADA DOMINGO SAVIO</a>, EN LA CARRERA DE INGENIERIA DE SISTEMAS</br>
 </em></p>
 
@@ -27,3 +29,5 @@ const aboutMe = {
 
 ---
 
+
+⭐️ From [@JHONNY](https://github.com/JRC-ROJAS)
