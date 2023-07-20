@@ -11,21 +11,21 @@ ___
 ___
 
 ```javascript
-const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java, CSharp],
-   technologies: {
-      frontEnd: {
+const sobreMi = {
+   CODIGO: [Javascript, Typescript, HTML, CSS, Java, CSharp],
+   TECNOLOGIAS: {   
+      FRONTEND: {
          js: ["Angular"],
          css: ["Bootstrap"]
       },
-      backEnd: {
+      BACKEND: {
          java: ["Spring"],
          js: ["Node"],
          csharp: ["Asp.net Core",".Net Framework"],
       },
-   databases:["mySQL", "SQLServer"],
    },
-   ocupacionActual: ["ESTUDIANTE DE ULTIMO AÑO, ABIERTA A OPORTUNIDADES LABORALES"],
+   DATABASES: ["mySQL", "SQLServer"],
+   OCUPACION_ACTUAL: ["ESTUDIANTE DE ULTIMO AÑO, ABIERTA A OPORTUNIDADES LABORALES"],
 };
 ```
 
