@@ -4,7 +4,7 @@ ___
 
 <p>
    <em>
-      ESTUDIANTE DE LA CARRERA DE INGENIERIA EN SISTEMAS
+      INGENIERO EN SISTEMAS
    </em>
 </p>
 
@@ -12,20 +12,19 @@ ___
 
 ```javascript
 const sobreMi = {
-   CODIGO: [Javascript, Typescript, HTML, CSS, Java, CSharp],
+   CODIGO: [JavaScript, CSharp, SQL],
    TECNOLOGIAS: {   
       FRONTEND: {
-         js: ["Angular"],
-         css: ["Bootstrap"]
+         js: ["React"],
+         css: ["Bootstrap", "Material UI"]
       },
       BACKEND: {
-         java: ["Spring"],
          js: ["Node"],
-         csharp: ["Asp.net Core",".Net Framework"],
+         csharp: ["ASP.NET Core Web API"]
       },
    },
-   DATABASES: ["mySQL", "SQLServer"],
-   OCUPACION_ACTUAL: ["ESTUDIANTE DE ULTIMO AÑO, ABIERTA A OPORTUNIDADES LABORALES"],
+   DATABASES: ["SQL Server"],
+   OCUPACION_ACTUAL: ["DESARROLLADOR JUNIOR EN RETAIL, ABIERTA A NUEVAS OPORTUNIDADES"],
 };
 ```
 
