@@ -20,10 +20,11 @@ const sobreMi = {
       },
       BACKEND: {
          js: ["Node"],
-         csharp: ["ASP.NET Core Web API"]
+         csharp: ["ASP.NET Core Web API", ".NET Core", "Entity Framework", "LINQ"]
       },
    },
-   DATABASES: ["SQL Server"],
+   DATABASES: ["SQL Server", "My SQL"],
+   CONOCIMIENTOS: ["Servicios", "Aura Portal", "SAP Business"],
    OCUPACION_ACTUAL: ["DESARROLLADOR JUNIOR EN RETAIL, ABIERTA A NUEVAS OPORTUNIDADES"],
 };
 ```
